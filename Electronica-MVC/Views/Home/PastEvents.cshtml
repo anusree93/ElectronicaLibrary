@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "PastEvents";
+}
+
+<h2>PastEvents</h2>
+@{ 
+    foreach (var item in ViewBag.el)
+    {
+        <li>
+            @item.EventName
+            @item.EventID
+        </li>
+    }
+}
+
+
+

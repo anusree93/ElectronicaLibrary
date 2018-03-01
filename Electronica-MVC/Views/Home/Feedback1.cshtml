@@ -1,0 +1,241 @@
+﻿@model Electronica.Manager.ElectronicaDto.FeedBackDto
+
+@{
+    ViewBag.Title = "Feedback1";
+}
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<style>
+  
+span,fieldset, label { margin: 0; padding: 0; }
+body{ margin: 20px; }
+h1 { font-size: 1.5em; margin: 10px; }
+
+/****** Style Star Rating Widget *****/
+
+.rating {
+  border: none;
+  float: left;
+}
+
+.rating > input { display: none; }
+    .rating > label:before {
+        margin: 5px;
+        font-size: 25px;
+        font-family: FontAwesome;
+        display: inline-block;
+        content: '\f005';
+    }
+
+.rating > .half:before {
+  content: "\f089";
+  position: absolute;
+}
+
+.rating > label {
+  color: #ddd;
+ float: right;
+}
+    /*
+/* Created by Filipe Pina
+* Specific styles of signin, register, component
+*/
+    /*
+* General styles
+*/
+
+    body, html {
+        height: 100%;
+        background-repeat: no-repeat;
+        background-color: black;
+        font-family: 'Oxygen', sans-serif;
+        
+    }
+
+    .main {
+        margin-top: 0px;
+    }
+
+    h1.title {
+        font-size: 50px;
+        font-family: 'Passion One', cursive;
+        font-weight: 400;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    label {
+        margin-bottom: 15px;
+    }
+
+    input,
+    input::-webkit-input-placeholder {
+        font-size: 11px;
+        padding-top: 3px;
+    }
+
+    .main-login {
+        background-color: lightyellow;
+        /* shadows and rounded borders */
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        border-radius: 2px;
+        -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    }
+
+    .main-center {
+        margin-top: 10px;
+        margin: 0 auto;
+        max-width: 330px;
+        padding: 40px 40px;
+    }
+
+    .login-button {
+        margin-top: 5px;
+    }
+
+    .login-register {
+        font-size: 11px;
+        text-align: center;
+    }
+
+
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.rating > input:checked ~ label, /* show gold star when clicked */
+.rating:not(:checked) > label:hover, /* hover current star */
+.rating:not(:checked) > label:hover ~ label { color: #FFD700;  } /* hover previous stars in list */
+
+.rating > input:checked + label:hover, /* hover current star when changing rating */
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label, /* lighten current selection */
+.rating > input:checked ~ label:hover ~ label { color: #FFED85;  }
+</style>
+<body >
+    <div class="container">
+        <div class="row main">
+            <div class="panel-heading">
+                <div class="panel-title text-center">
+                    <h1 class="title">FeedBack</h1>
+                    </div>
+                </div>
+            <div class="main-login main-center">
+                    <form class="form-horizontal" method="post" action="Feedback1">
+                        <div style="height:50px">
+                            <span>
+                                <label style="font-size:18px">Presentation SKills:</label>
+                            </span>
+                            
+                            <span class="rating">
+
+                                <input type="radio" id="star5" name="PresentationSkill" value="5" /><label class="full" for="star5" title="Awesome - 5 stars"></label>
+                                
+                                <input type="radio" id="star4" name="PresentationSkill" value="4" /><label class="full" for="star4" title="Pretty good - 4 stars"></label>
+                                
+                                <input type="radio" id="star3" name="PresentationSkill" value="3" /><label class="full" for="star3" title="Meh - 3 stars"></label>
+                                
+                                <input type="radio" id="star2" name="PresentationSkill" value="2" /><label class="full" for="star2" title="Kinda bad - 2 stars"></label>
+                                
+                                <input type="radio" id="star1" name="PresentationSkill" value="1" /><label class="full" for="star1" title="Sucks big time - 1 star"></label>
+                                
+                            </span>
+                        </div>
+                        <div>
+                            
+
+                            <span>
+                                <br /><br /><br />
+                                <label style="font-size:18px">Training SKills:</label>
+                            </span>
+                            
+                            <span class="rating">
+
+                                <input type="radio" id="2star5" name="TrainingSkill" value="5" /><label class="full" for="2star5" title="Awesome - 5 stars"></label>
+
+                                <input type="radio" id="2star4" name="TrainingSkill" value="4" /><label class="full" for="2star4" title="Pretty good - 4 stars"></label>
+
+                                <input type="radio" id="2star3" name="TrainingSkill" value="3" /><label class="full" for="2star3" title="Meh - 3 stars"></label>
+
+                                <input type="radio" id="2star2" name="TrainingSkill" value="2" /><label class="full" for="2star2" title="Kinda bad - 2 stars"></label>
+
+                                <input type="radio" id="2star1" name="TrainingSkill" value="1" /><label class="full" for="2star1" title="Sucks big time - 1 star"></label>
+
+                            </span>
+                        </div>
+                            <span>
+                                <br /><br /><br />
+                                <label style="font-size:18px">SubjectKnowledge SKills:</label>
+                            </span>
+                           
+                            <span class="rating">
+
+                                <input type="radio" id="3star5" name="SubjectKnowledge" value="5" /><label class="full" for="3star5" title="Awesome - 5 stars"></label>
+
+                                <input type="radio" id="3star4" name="SubjectKnowledge" value="4" /><label class="full" for="3star4" title="Pretty good - 4 stars"></label>
+
+                                <input type="radio" id="3star3" name="SubjectKnowledge" value="3" /><label class="full" for="3star3" title="Meh - 3 stars"></label>
+
+                                <input type="radio" id="3star2" name="SubjectKnowledge" value="2" /><label class="full" for="3star2" title="Kinda bad - 2 stars"></label>
+
+                                <input type="radio" id="3star1" name="SubjectKnowledge" value="1" /><label class="full" for="3star1" title="Sucks big time - 1 star"></label>
+
+                            </span>
+                            
+                            <span>
+                                <br /><br /><br />
+                                <label style="font-size:18px">Interaction SKills:</label>
+                            </span>
+                            
+                            <span class="rating">
+
+                                <input type="radio" id="4star5" name="InteractionSkill" value="5" /><label class="full" for="4star5" title="Awesome - 5 stars"></label>
+
+                                <input type="radio" id="4star4" name="InteractionSkill" value="4" /><label class="full" for="4star4" title="Pretty good - 4 stars"></label>
+
+                                <input type="radio" id="4star3" name="InteractionSkill" value="3" /><label class="full" for="4star3" title="Meh - 3 stars"></label>
+
+                                <input type="radio" id="4star2" name="InteractionSkill" value="2" /><label class="full" for="4star2" title="Kinda bad - 2 stars"></label>
+
+                                <input type="radio" id="4star1" name="InteractionSkill" value="1" /><label class="full" for="4star1" title="Sucks big time - 1 star"></label>
+
+                            </span>
+                            <br />
+                            <span>
+                                <br /><br /><br />
+                                <label style="font-size:18px">Training Content:</label>
+                            </span>
+                           
+                            <span class="rating">
+
+                                <input type="radio" id="5star5" name="TrainingContent" value="5" /><label class="full" for="5star5" title="Awesome - 5 stars"></label>
+
+                                <input type="radio" id="5star4" name="TrainingContent" value="4" /><label class="full" for="5star4" title="Pretty good - 4 stars"></label>
+
+                                <input type="radio" id="5star3" name="TrainingContent" value="3" /><label class="full" for="5star3" title="Meh - 3 stars"></label>
+
+                                <input type="radio" id="5star2" name="TrainingContent" value="2" /><label class="full" for="5star2" title="Kinda bad - 2 stars"></label>
+
+                                <input type="radio" id="5star1" name="TrainingContent" value="1" /><label class="full" for="5star1" title="Sucks big time - 1 star"></label>
+
+                            </span>
+                            <span>
+                                <br  /><br /><br />
+                                <label style="font-size:18px">Comments:</label>
+                            </span>
+                           
+                            <span>
+                                <textarea name="Comments" class="form-control"></textarea>
+
+
+                            </span>
+                            <span>
+                                <input type="submit" value="Submit" class="btn btn-primary btn-lg btn-block login-button" />
+                            </span>
+</form>
+                </div>
+           </div>
+        </div>
+</body>

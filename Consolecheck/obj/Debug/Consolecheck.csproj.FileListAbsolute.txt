@@ -1,0 +1,14 @@
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\Consolecheck.exe.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\Consolecheck.exe
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\Consolecheck.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\Electronica.Entity.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\EntityFramework.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\Electronica.Entity.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\Electronica.Entity.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\EntityFramework.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\obj\Debug\Consolecheck.csprojResolveAssemblyReference.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\obj\Debug\Consolecheck.csproj.CoreCompileInputs.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\obj\Debug\Consolecheck.exe
+C:\Users\alanm\Desktop\ElectronicaLibrary\Consolecheck\obj\Debug\Consolecheck.pdb

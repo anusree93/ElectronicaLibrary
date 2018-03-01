@@ -1,0 +1,33 @@
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Electronica.Manager.csproj.CoreCompileInputs.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Manager.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Manager.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Manager.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Entity.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Repository.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Entity.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Entity.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Repository.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Repository.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Electronica.Manager.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Electronica.Manager.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Electronica.Manager.csprojResolveAssemblyReference.cache
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Manager.dll.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Manager.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Manager.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Entity.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Repository.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Entity.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Entity.dll.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Repository.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Electronica.Repository.dll.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Electronica.Manager.csprojResolveAssemblyReference.cache
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Electronica.Manager.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Electronica.Manager.pdb

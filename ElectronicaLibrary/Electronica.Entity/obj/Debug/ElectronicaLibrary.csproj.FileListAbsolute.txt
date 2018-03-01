@@ -1,0 +1,20 @@
+c:\users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ElectronicaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ElectronicaLibrary.dll.config
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ElectronicaLibrary.dll
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ElectronicaLibrary.pdb
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.dll
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.xml
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ElectronicaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ElectronicaLibrary.dll
+C:\Users\alanm\documents\visual studio 2017\Projects\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ElectronicaLibrary.pdb
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ElectronicaLibrary.dll.config
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ElectronicaLibrary.dll
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ElectronicaLibrary.pdb
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.dll
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.xml
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ElectronicaLibrary.dll
+C:\Users\albins\Documents\Materials\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ElectronicaLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ModelEntities.ClassLibrary.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ModelEntities.ClassLibrary.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\ModelEntities.ClassLibrary.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ModelEntities.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ModelEntities.ClassLibrary.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\ModelEntities.ClassLibrary.pdb

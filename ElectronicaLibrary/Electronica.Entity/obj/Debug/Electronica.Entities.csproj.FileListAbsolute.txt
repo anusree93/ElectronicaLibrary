@@ -1,0 +1,7 @@
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\Electronica.Entities.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\Electronica.Entities.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\bin\Debug\Electronica.Entities.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\Electronica.Entities.csprojResolveAssemblyReference.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\Electronica.Entities.csproj.CoreCompileInputs.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\Electronica.Entities.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\ElectronicaLibrary\obj\Debug\Electronica.Entities.pdb

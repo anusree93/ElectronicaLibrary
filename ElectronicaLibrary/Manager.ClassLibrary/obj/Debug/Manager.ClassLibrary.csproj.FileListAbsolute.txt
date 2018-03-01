@@ -1,0 +1,14 @@
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Manager.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Manager.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Manager.ClassLibrary.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Manager.ClassLibrary.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\ModelEntities.ClassLibrary.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Repository.ClassLibrary.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\ModelEntities.ClassLibrary.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\ModelEntities.ClassLibrary.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Repository.ClassLibrary.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\Repository.ClassLibrary.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Manager.ClassLibrary.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Manager.ClassLibrary\obj\Debug\Manager.ClassLibrary.pdb

@@ -1,0 +1,159 @@
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csc.exe
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csc.exe.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csc.rsp
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csi.exe
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csi.rsp
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\vbc.exe
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\vbc.exe.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\vbc.rsp
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica-MVC.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica-MVC.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica-MVC.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Antlr3.Runtime.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Manager.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Newtonsoft.Json.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Helpers.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Mvc.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Optimization.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Razor.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\WebGrease.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Repository.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Entity.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Manager.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Manager.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Helpers.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Mvc.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Optimization.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Razor.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Newtonsoft.Json.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Repository.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Repository.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Entity.pdb
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Entity.dll.config
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\obj\Debug\Electronica.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\obj\Debug\Electronica.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\obj\Debug\Electronica-MVC.dll
+C:\Users\alanm\Desktop\ElectronicaLibrary\Electronica-MVC\obj\Debug\Electronica-MVC.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csc.exe
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csc.exe.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csc.rsp
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csi.exe
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\csi.rsp
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\vbc.exe
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\vbc.exe.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\vbc.rsp
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica-MVC.dll.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica-MVC.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica-MVC.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Antlr3.Runtime.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Manager.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Newtonsoft.Json.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Helpers.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Mvc.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Optimization.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Razor.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\WebGrease.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Repository.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Entity.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Manager.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Manager.dll.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Helpers.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Mvc.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Optimization.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.Razor.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Newtonsoft.Json.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Repository.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Repository.dll.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Entity.pdb
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\bin\Electronica.Entity.dll.config
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\obj\Debug\Electronica.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\obj\Debug\Electronica-MVC.dll
+C:\Users\anusrees\Documents\Projects\ElectronicaLibrary (1)\ElectronicaLibrary\Electronica-MVC\obj\Debug\Electronica-MVC.pdb

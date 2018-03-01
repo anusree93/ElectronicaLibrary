@@ -1,0 +1,13 @@
+﻿
+@model IEnumerable<Electronica.Manager.ElectronicaDto.EventDto>
+@{
+    ViewBag.Title = "ShowEvent";
+}
+
+@foreach (var item in Model)
+{
+    <div>
+        @item
+        <br />
+    </div>
+}
