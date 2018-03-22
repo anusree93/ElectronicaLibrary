@@ -26,6 +26,7 @@ namespace Electronica_MVC.Controllers
 
             ParticipantManager objMemberManager = new ParticipantManager();
             bool status=objMemberManager.AddParticipant(objMemberDto);
+
             if (status)
                {
                 return RedirectToAction("Login");
