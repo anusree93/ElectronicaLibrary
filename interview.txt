@@ -12,6 +12,9 @@ database questions-raghu
 2)sql joins
 3)sql subqueries,transact sql,difference btwn updateable and  nonupdatable cursors
 4)diff btwn stored procedure & fn
+2)sql joins
+3)sql subqueries,transact sql,difference btwn updateable and  nonupdatable cursors
+4)diff btwn stored procedure & fn
 5)types of fns & their implications
 6)can u call a stored proc inside a fn and vice versa...but y
 7)indexes,types of indexes,when to use & avoid indexes
