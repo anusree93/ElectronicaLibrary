@@ -9,7 +9,6 @@ javatpoint
 database questions-raghu
 ---------------------------------
 1)why rdbms
-asdfghjjk
 2)sql joins
 3)sql subqueries,transact sql,difference btwn updateable and  nonupdatable cursors
 4)diff btwn stored procedure & fn
