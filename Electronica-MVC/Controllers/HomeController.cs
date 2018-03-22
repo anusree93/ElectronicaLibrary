@@ -29,6 +29,7 @@ namespace Electronica_MVC.Controllers
 
             if (status)
                {
+
                 return RedirectToAction("Login");
 
                }
@@ -54,6 +55,7 @@ namespace Electronica_MVC.Controllers
 
                 LoginManager objLoginManager = new LoginManager();
                 ParticipantDto objReturn = new ParticipantDto();
+
                 objReturn=objLoginManager.CheckLogin(objloginDto);
                 if (objReturn.Email!=null)
                    {
