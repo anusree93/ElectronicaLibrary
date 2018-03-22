@@ -12,8 +12,6 @@ database questions-raghu
 2)sql joins
 3)sql subqueries,transact sql,difference btwn updateable and  nonupdatable cursors
 4)diff btwn stored procedure & fn
-bnm,llijjkj
-asdfghjjk
 2)sql joins
 3)sql subqueries,transact sql,difference btwn updateable and  nonupdatable cursors
 4)diff btwn stored procedure & fn
